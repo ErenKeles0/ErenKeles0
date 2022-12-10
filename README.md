@@ -1,1 +1,1 @@
-![](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif)
