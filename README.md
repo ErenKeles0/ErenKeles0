@@ -1,56 +1,54 @@
-## 👋 Merhaba, ben Eren Keleş
+## 👋 Hi, I'm Eren Keleş
 
-Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geliştiriyor, problem çözmeyi ve algoritmaları keşfetmeyi seviyorum. Hem kod yazmayı hem de yazdığım yazılımların gerçek dünya sorunlarına çözüm getirmesini takip etmekten keyif alıyorum.
-
----
-
-### 💻 Teknolojiler & Diller
-
-
-| Dil / Teknoloji | Açıklama |
-|-----------------|----------|
-| <div align="center"><img src="python.png" width="32" /></div> | Veri analizi, otomasyon, web geliştirme |
-| <div align="center"><img src="c.png" width="32" /></div> | Sistem/programlama, algoritma uygulamaları |
-
+I'm Eren, a passionate software developer. I build projects using Python and C. I love solving problems and exploring algorithms. I enjoy writing code and seeing it solve real-world problems.
 
 ---
 
-### 📈 İstatistikler
+### 💻 Technologies & Languages
+
+| Language / Tech | Description |
+|-----------------|-------------|
+| <div align="center"><img src="python.png" width="32" /></div> | Data analysis, automation, web development |
+| <div align="center"><img src="c.png" width="32" /></div> | Systems/programming, algorithm projects |
+
+---
+
+### 📈 Stats
 
 ![ErenKeles0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKeles0&show_icons=true&theme=tokyonight)  
 ![ErenKeles0's Leetcode stats](https://leetcard.jacoblin.cool/ErenKeles0?theme=catppuccinMocha&font=Noto%20Sans%20TC&ext=heatmap)
 
 ---
 
-### 🔗 Takip edebileceğiniz Profiller
+### 🔗 My Profiles
 
-- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/eren-keleş-4ba055250)
+- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/eren-keleş-4ba055250)  
 - 🧠 LeetCode: [ErenKeles0](https://leetcode.com/u/ErenKeles0)
 
 ---
 
-### 🛠️ Öne Çıkan Projeler
+### 🛠️ Featured Projects
 
-- 🎮 **[Rock-Paper-Scissors](https://github.com/ErenKeles0/Rock-Paper-Scissors)** – Python ile geliştirilmiş, kullanıcıyla bilgisayar arasında geçen klasik “taş-kağıt-makas” oyunu. Basit arayüz ve rastgele seçim algoritması içerir.
+- 🎮 **[Rock-Paper-Scissors](https://github.com/ErenKeles0/Rock-Paper-Scissors)** – A simple rock-paper-scissors game made with Python. It uses a basic interface and random choice logic.
 
-- ⚡ **[Valorant-Instalocker](https://github.com/ErenKeles0/Valorant-Instalocker)** – Valorant oyununda hızlı karakter seçimi (instalock) yapmak için yazılmış Python otomasyon betiği. PyAutoGUI gibi kütüphaneler kullanılarak tuş kontrolü sağlar.
+- ⚡ **[Valorant-Instalocker](https://github.com/ErenKeles0/Valorant-Instalocker)** – A Python automation script to quickly pick a character in Valorant. Uses PyAutoGUI to control the keyboard.
 
-- 🧮 **[pycalculator](https://github.com/ErenKeles0/pycalculator)** – Basit bir Python hesap makinesi uygulaması. Kullanıcıdan giriş alarak toplama, çıkarma, çarpma ve bölme işlemlerini gerçekleştirir.
-
----
-
-### 🎯 Hedefler & İlgi Alanları
-
-- Elektrik-Elektronik mühendisliği ile birlikte yazılım alanında kendimi geliştirmek  
-- Veri yapıları ve algoritmalar konusunda derinleşmek  
-- Açık kaynak projelere katkı yapmak  
+- 🧮 **[pycalculator](https://github.com/ErenKeles0/pycalculator)** – A basic calculator made with Python. It can do addition, subtraction, multiplication, and division.
 
 ---
 
-### 🤝 İletişim
+### 🎯 Goals & Interests
 
-İletişim için GitHub profilim üzerindeki bağlantılardan ulaşabilirsin.
+- Improve myself in software and electrical-electronics engineering  
+- Learn more about data structures and algorithms  
+- Contribute to open source projects  
 
 ---
 
-**Teşekkürler** bu profil sayfasını ziyaret ettiğin için. Birbirimizden öğrenebilir, birlikte harika şeyler geliştirebiliriz 💡
+### 🤝 Contact
+
+You can contact me through the links on my GitHub profile.
+
+---
+
+**Thank you** for visiting my profile! Let’s learn from each other and build great things together 💡
