@@ -6,10 +6,12 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ### 💻 Teknolojiler & Diller
 
+
 | Dil / Teknoloji | Açıklama |
-|------------------|-----------|
-| <img src="python.png" width="32"/> **Python** | Veri analizi, otomasyon, web geliştirme |
-| <img src="c.png" width="32"/> **C** | Sistem/programlama, algoritma uygulamaları |
+|-----------------|----------|
+| <div align="center"><img src="python.png" width="32" /></div> | Veri analizi, otomasyon, web geliştirme |
+| <div align="center"><img src="c.png" width="32" /></div> | Sistem/programlama, algoritma uygulamaları |
+
 
 ---
 
