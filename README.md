@@ -22,8 +22,8 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ### 🔗 Takip edebileceğiniz Profiller
 
-- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/ErenKeles0)
-- 🧠 LeetCode: [ErenKeles0](https://leetcode.com/ErenKeles0)
+- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/eren-keleş-4ba055250)
+- 🧠 LeetCode: [ErenKeles0](https://leetcode.com/u/ErenKeles0)
 
 ---
 
