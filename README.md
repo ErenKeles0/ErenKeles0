@@ -8,14 +8,13 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 | Dil / Teknoloji | Açıklama |
 |------------------|-----------|
-| 🐍 **Python**     | Veri analizi, otomasyon, web geliştirme |
-| 📘 **C**         | Sistem/programlama, algoritma uygulamaları |
+| <img src="python.png" width="20"/> **Python** | Veri analizi, otomasyon, web geliştirme |
+| <img src="c.png" width="20"/> **C** | Sistem/programlama, algoritma uygulamaları |
 
 ---
 
 ### 📈 İstatistikler
 
-<!-- Profil dinamizmi için örnek: -->
 ![ErenKeles0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKeles0&show_icons=true&theme=radical)
 
 ---
@@ -39,7 +38,7 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ### 🎯 Hedefler & İlgi Alanları
 
-- Elektrik-Elektronik mühendisliği ile birlikte yazılım alanında kendimi geliştirmek
+- Elektrik-Elektronik mühendisliği ile birlikte yazılım alanında kendimi geliştirmek  
 - Veri yapıları ve algoritmalar konusunda derinleşmek  
 - Açık kaynak projelere katkı yapmak  
 
@@ -51,4 +50,4 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ---
 
-**Teşekkürler** bu profil sayfasını ziyaret ettiğin için. Birbirimizden öğrenebilir, birlikte harika şeyler geliştirebiliriz 💡  
+**Teşekkürler** bu profil sayfasını ziyaret ettiğin için. Birbirimizden öğrenebilir, birlikte harika şeyler geliştirebiliriz 💡
