@@ -29,17 +29,17 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ### 🛠️ Öne Çıkan Projeler
 
-> Bu alanı projelerinle doldurabiliriz. Örnek format:
-- **[Proje Adı](GitHub link)** – kısa açıklama (“Python ile web scrapper”, “C ile veri yapıları” gibi).
-- **[Başka Proje](Link)** – açıklama.
+- 🎮 **[Rock-Paper-Scissors](https://github.com/ErenKeles0/Rock-Paper-Scissors)** – Python ile geliştirilmiş, kullanıcıyla bilgisayar arasında geçen klasik “taş-kağıt-makas” oyunu. Basit arayüz ve rastgele seçim algoritması içerir.
 
-İstersen buraya birkaç proje linki paylaş, ben de 👉 açıklamalarıyla birlikte ekleyeyim.
+- ⚡ **[Valorant-Instalocker](https://github.com/ErenKeles0/Valorant-Instalocker)** – Valorant oyununda hızlı karakter seçimi (instalock) yapmak için yazılmış Python otomasyon betiği. PyAutoGUI gibi kütüphaneler kullanılarak tuş kontrolü sağlar.
+
+- 🧮 **[pycalculator](https://github.com/ErenKeles0/pycalculator)** – Basit bir Python hesap makinesi uygulaması. Kullanıcıdan giriş alarak toplama, çıkarma, çarpma ve bölme işlemlerini gerçekleştirir.
 
 ---
 
 ### 🎯 Hedefler & İlgi Alanları
 
-- Yazılım mühendisliği kariyerine odaklanmak  
+- Elektrik-Elektronik mühendisliği ile birlikte yazılım alanında kendimi geliştirmek
 - Veri yapıları ve algoritmalar konusunda derinleşmek  
 - Açık kaynak projelere katkı yapmak  
 
@@ -47,7 +47,7 @@ Ben Eren, tutkulu bir yazılım geliştiricisiyim. Python ve C ile projeler geli
 
 ### 🤝 İletişim
 
-İletişim için GitHub profilim üzerindeki bağlantılardan ulaşabilirsin veya e-mail / Twitter gibi başka bir mecrada paylaşmak istersen ekleyebilirsin.
+İletişim için GitHub profilim üzerindeki bağlantılardan ulaşabilirsin.
 
 ---
 
