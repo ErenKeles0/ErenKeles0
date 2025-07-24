@@ -15,7 +15,7 @@ I'm Eren, a passionate software developer. I build projects using Python and C. 
 
 ### 📈 Stats
 
-![ErenKeles0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKeles0&show_icons=true&theme=tokyonight)  
+![ErenKeles0's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErenKeles0&show_icons=true&theme=tokyonight&cache_seconds=3600)  
 ![ErenKeles0's Leetcode stats](https://leetcard.jacoblin.cool/ErenKeles0?theme=catppuccinMocha&font=Noto%20Sans%20TC&ext=heatmap)
 
 ---
