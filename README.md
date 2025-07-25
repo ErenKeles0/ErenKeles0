@@ -22,7 +22,7 @@ I'm Eren, a passionate software developer. I build projects using Python and C. 
 
 ### 🔗 My Profiles
 
-- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/eren-keleş-4ba055250)  
+- 💼 LinkedIn: [ErenKeles0](https://www.linkedin.com/in/eren-keleş)  
 - 🧠 LeetCode: [ErenKeles0](https://leetcode.com/u/ErenKeles0)
 
 ---
