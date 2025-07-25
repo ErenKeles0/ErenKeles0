@@ -10,7 +10,7 @@ I'm Eren, a passionate software developer. I build projects using Python and C. 
 |-----------------|-------------|
 | <div align="center"><img src="python.png" width="32" /></div> | Data analysis, automation, web development |
 | <div align="center"><img src="c.png" width="32" /></div> | Systems/programming, algorithm projects |
-
+| <div align="center"><img src="cs.png" width="32" /></div> | GUI, Windows apps and alogirthm development |
 ---
 
 ### 📈 Stats
