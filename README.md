@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Eren Keleş
 
-### Computer Engineering Student @ Yıldız Technical University (YTÜ)
+### Computer Engineering Student @ Yıldız Technical University
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Software+Developer;Aspiring+AI+Engineer;Python+%26+C%2B%2B+Enthusiast;Lifelong+Learner" alt="Typing SVG" />
 
@@ -10,12 +10,13 @@
 
 I am a passionate Computer Engineering student bridging the gap between low-level logic and modern intelligent systems. My journey started with simple Python scripts in high school and evolved into a deep interest in **Algorithms**, **Data Structures**, and **Artificial Intelligence**.
 
-Currently, I am expanding my skills in **Machine Learning** while building responsive web interfaces with **React**.
+Currently, I am fully dedicated to expanding my skills in **Machine Learning** and **Deep Learning**, building a strong foundation in AI.
 
 ---
 
 ### 🛠️ Languages & Technologies
 
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,18 +26,7 @@ Currently, I am expanding my skills in **Machine Learning** while building respo
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
-</div>
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ErenKeles0&show_icons=true&theme=tokyonight&cache_seconds=3600&hide_border=true" height="180" alt="stats" />
-  <img src="https://leetcard.jacoblin.cool/ErenKeles0?theme=tokyonight&font=Noto%20Sans%20TC&ext=heatmap" height="180" alt="leetcode" />
 </div>
 
 ---
@@ -45,6 +35,8 @@ Currently, I am expanding my skills in **Machine Learning** while building respo
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| 🌐 **[Personal Portfolio](https://github.com/ErenKeles0/my-website)** | My personal website built to showcase my projects and journey. Features a modern, responsive design and interactive components. | `React` `Tailwind` |
+| ❌ **[CLI Tic-Tac-Toe](https://github.com/ErenKeles0/TicTacToe-CPP)** | A logic-based game running on the Command Line Interface. Demonstrates memory management and algorithmic game flow in C++. | `C++` `CLI` |
 | 🧠 **[Text to Binary Converter](https://github.com/ErenKeles0/TextToBinary)** | A tool to convert text/numbers to binary format. Created to understand low-level data representation and bitwise operations. | `C++` `Algorithms` |
 | ⚡ **[Valorant-Instalocker](https://github.com/ErenKeles0/Valorant-Instalocker)** | An automation script using computer vision and input simulation to select characters instantly. | `Python` `PyAutoGUI` |
 | 🎮 **[Rock-Paper-Scissors](https://github.com/ErenKeles0/Rock-Paper-Scissors)** | A classic CLI game featuring random logic and user input handling. My starting point in game logic. | `Python` |
@@ -54,9 +46,9 @@ Currently, I am expanding my skills in **Machine Learning** while building respo
 
 ### 🎯 Goals & Focus
 
-- 🔭 **Current Focus:** Deepening my understanding of **Neural Networks** and **Computer Vision**.
-- 🌱 **Learning:** Advanced Data Structures in C++ and Modern React Patterns.
-- 👯 **Looking for:** Collaboration on open-source AI or education-related projects.
+- 🔭 **Working on:** Deep Learning models and Computer Vision projects.
+- 🌱 **Learning:** Mathematical foundations of AI (Linear Algebra & Calculus) and Neural Networks.
+- 🧠 **Goal:** To specialize in Artificial Intelligence and develop scalable ML solutions.
 
 ---
 
@@ -69,7 +61,3 @@ Currently, I am expanding my skills in **Machine Learning** while building respo
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seninmailadresin@gmail.com)
 
 </div>
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
-</p>
