@@ -15,16 +15,12 @@ Currently, I am fully dedicated to expanding my skills in **Machine Learning** a
 ---
 
 ### 🛠️ Languages & Technologies
-
+<img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=probot&logoColor=white" />
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-007BA7?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 </div>
@@ -36,11 +32,13 @@ Currently, I am fully dedicated to expanding my skills in **Machine Learning** a
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🌐 **[Personal Portfolio](https://github.com/ErenKeles0/my-website)** | My personal website built to showcase my projects and journey. Features a modern, responsive design and interactive components. | `React` `Tailwind` |
+| ♟️ **[PyChess](https://github.com/ErenKeles0/PyChess)** | A simple and playable two-player chess game made using the Pygame library. | `Python` `Pygame` |
 | ❌ **[CLI Tic-Tac-Toe](https://github.com/ErenKeles0/TicTacToe-CPP)** | A logic-based game running on the Command Line Interface. Demonstrates memory management and algorithmic game flow in C++. | `C++` `CLI` |
 | 🧠 **[Text to Binary Converter](https://github.com/ErenKeles0/TextToBinary)** | A tool to convert text/numbers to binary format. Created to understand low-level data representation and bitwise operations. | `C++` `Algorithms` |
 | ⚡ **[Valorant-Instalocker](https://github.com/ErenKeles0/Valorant-Instalocker)** | An automation script using computer vision and input simulation to select characters instantly. | `Python` `PyAutoGUI` |
 | 🎮 **[Rock-Paper-Scissors](https://github.com/ErenKeles0/Rock-Paper-Scissors)** | A classic CLI game featuring random logic and user input handling. My starting point in game logic. | `Python` |
 | 🧮 **[PyCalculator](https://github.com/ErenKeles0/pycalculator)** | A functional calculator application demonstrating modular arithmetic logic and error handling. | `Python` |
+
 
 ---
 
@@ -57,7 +55,6 @@ Currently, I am fully dedicated to expanding my skills in **Machine Learning** a
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eren-keleş)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ErenKeles0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:09erenkeles09@gmail.com)
 
 </div>
